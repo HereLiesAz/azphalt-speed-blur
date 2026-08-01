@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Blurs the caption in proportion to how fast the speaker is talking — the quicker the delivery, the harder it smears.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
